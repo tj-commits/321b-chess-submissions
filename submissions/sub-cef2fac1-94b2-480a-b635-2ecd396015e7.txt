@@ -1,0 +1,20 @@
+Credit: Unflint (Chess.com)
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.26"]
+[Round "?"]
+[White "markgier"]
+[Black "Unflint"]
+[Result "0-1"]
+[TimeControl "60"]
+[WhiteElo "121"]
+[BlackElo "189"]
+[Termination "Unflint won on time"]
+[ECO "C23"]
+[EndTime "23:09:30 GMT+0000"]
+[Link "https://www.chess.com/game/live/166478294044?username=unflint"]
+
+1. e4 e5 2. Bc4 Ne7 3. Qh5 g6 4. Qxe5 Bg7 5. Qxg7 Rg8 6. Qxg8+ Nxg8 7. Nf3 Nc6
+8. e5 Nd4 9. Nxd4 Nf6 10. exf6 Qxf6 11. O-O Qxd4 12. c3 Qxc4 13. Na3 Qe2 14. d4
+Qe7 15. Be3 d6 16. Nb5 c6 17. Na3 Qc7 18. Rfe1 Be6 19. Re2 Qa5 20. Rae1 Qb6 0-1
