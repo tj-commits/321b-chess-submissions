@@ -1,0 +1,24 @@
+Credit: Unflint (Chess.com)
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.01.10"]
+[Round "?"]
+[White "Unflint"]
+[Black "ABO_AYMAN1"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "327"]
+[BlackElo "291"]
+[Termination "Unflint won by checkmate"]
+[ECO "A40"]
+[EndTime "20:45:57 GMT+0000"]
+[Link "https://www.chess.com/game/live/147847213454?username=unflint&move=0"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 Bxd6 4. e4 Nf6 5. Nc3 O-O 6. Be3 g5 7. Bxg5 Be7 8.
+Nd5 Nxe4 9. Bxe7 Qxd5 10. Qxd5 Re8 11. Qxe4 Rxe7 12. Qxe7 Kg7 13. Qxc7 Nd7 14.
+Qg3+ Kf8 15. Bc4 Ne5 16. Qxe5 h6 17. Qh8+ Ke7 18. O-O-O Bg4 19. f3 Bc8 20. Qxh6
+Bf5 21. Nh3 Bxh3 22. Qxh3 Rc8 23. Rhe1+ Kf8 24. Qxc8+ Kg7 25. Qxb7 Kf6 26. Qxa7
+Kf5 27. Qxf7+ Kg5 28. a4 Kh6 29. a5 Kg5 30. a6 Kh4 31. a7 Kg5 32. a8=Q Kh6 33.
+b4 Kg5 34. b5 Kh6 35. b6 Kg5 36. b7 Kh4 37. b8=R Kg5 38. g4 Kh4 39. g5 Kxg5 40.
+Rg8+ Kh6 41. Re6# 1-0
