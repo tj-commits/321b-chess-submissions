@@ -1,0 +1,19 @@
+Credit: Theworstchessplayer_i (Chess.com)
+
+[Site "Chess.com"]
+[Date "2026-08-13"]
+[White "Theworstchessplayer_i"]
+[Black "Vhino_Wijaya"]
+[Result "1-0"]
+[WhiteElo "242"]
+[BlackElo "171"]
+[TimeControl "180+2"]
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Nf3 d6 5. exd6 exd6 6. Bb3 Qe7+ 7. Qe2 Qxe2+
+8. Kxe2 Bd7 9. Ng5 Bb5+ 10. c4 f6 11. Ne6 Bd7 12. Nxc7+ Kd8 13. Nxa8 Nxa8 14. d4
+h5 15. Na3 g5 16. Nb5 a6 17. Nxd6 Bxd6 18. c5 Bf8 19. Re1 b6 20. cxb6 Nxb6 21.
+d5 Ke7 22. d6+ Kxd6 23. Rd1+ Kc5 24. Be3+ Kc6 25. Rac1+ Kb7 26. Bd5+ Nc6 27.
+Bxc6+ Bxc6 28. Bxb6 Kxb6 29. b4 a5 30. bxa5+ Kxa5 31. Rxc6 g4 32. a4 Kxa4 33.
+Ra6+ Kb4 34. Rb1+ Kc3 35. Rc6+ Kd4 36. Rd1+ Ke4 37. Rc4+ Ke5 38. f4+ Kf5 39.
+Rd5+ Kg6 40. f5+ Kg5 41. h4+ Kxh4 42. g3+ Kxg3 43. Rd3+ Kg2 44. Rc2 Kh2 45. Ke3+
+Kh3 46. Kd4+ Kh4 47. Rh2+ Kg5 48. Kd5 Kxf5 49. Rf2+ Kg6 50. Ke6 h4 51. Rxf6+ Kg5
+52. Rd5# 1-0
