@@ -1,0 +1,12 @@
+Credit: Tyventimiglia  (Chess.com)
+
+[Site "Chess.com"]
+[Result "1-0"]
+[WhiteElo "792"]
+[BlackElo "783"]
+[TimeControl "300"]
+[Termination "TyVentimiglia won by checkmate"]
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c5 5. Bd2 Qc7 6. Nf3 e6 7. Bd3 Nf6 8. O-O
+Be7 9. dxc5 Bxc5 10. a3 O-O 11. b4 Bd6 12. Ne2 Ng4 13. Ng3 Bxg3 14. fxg3 Qb6+
+15. Kh1 Nd7 16. Bxh7+ Kxh7 17. Ng5+ Kg8 18. Qxg4 e5 19. Qh4 Nf6 20. Rxf6 Rd8 21.
+Qh7+ Kf8 22. Rxf7+ Ke8 23. Qg8# 1-0
