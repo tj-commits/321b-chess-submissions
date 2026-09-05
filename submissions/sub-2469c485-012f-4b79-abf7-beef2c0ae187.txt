@@ -1,0 +1,22 @@
+Credit: Erwtie (Other)
+
+[Event "5 min, rated"]
+[Site "Main Playing Hall"]
+[Date "2026.08.06"]
+[Round ""]
+[White "Erwtie"]
+[Black "FranzM"]
+[Result "1-0"]
+[GameId "faNB8Ovu"]
+[WhiteElo "1366"]
+[BlackElo "1409"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. Nf3 { [%eval 0.11] } 2... e6 { [%eval 0.14] } 3. Bg5 { [%eval -0.01] } { A46 Torre Attack: Classical Defense } 3... Be7 { [%eval 0.1] } 4. Nbd2 { [%eval 0.01] } 4... d5 { [%eval 0.17] } 5. e3 { [%eval 0.08] } 5... Nbd7 { [%eval 0.23] } 6. Bd3 { [%eval 0.1] } 6... h6 { [%eval 0.25] } 7. Bh4 { [%eval 0.17] } 7... O-O { [%eval 0.25] } 8. c3 { [%eval 0.43] } 8... Nb6 { [%eval 0.88] } 9. O-O { [%eval 0.63] } 9... c5 { [%eval 0.8] } 10. Ne5 { [%eval 0.84] } 10... cxd4 { [%eval 1.29] } 11. exd4 { [%eval 1.26] } 11... Bd6?! { (1.26 → 1.95) Inaccuracy. Bd7 was best. } { [%eval 1.95] } (11... Bd7 12. f4 Be8 13. Qe2 Nc8 14. Bxf6 Bxf6 15. Rf3 a6 16. Bc2 Ne7 17. Kh1) 12. f4 { [%eval 2.01] } 12... Nbd7 { [%eval 2.01] } 13. Ndf3 { [%eval 1.55] } 13... Qb6 { [%eval 1.68] } 14. Nxd7 { [%eval 1.22] } 14... Nxd7 { [%eval 1.17] } 15. Qe2 { [%eval 0.93] } 15... a6?! { (0.93 → 1.95) Inaccuracy. Bxf4 was best. } { [%eval 1.95] } (15... Bxf4 16. Kh1 f6 17. c4 dxc4 18. Bxc4 Re8 19. Ng1 Bd6 20. Qg4 Kh8 21. Rae1) 16. Ne5 { [%eval 2.12] } 16... Nxe5?? { (2.12 → 4.88) Blunder. f5 was best. } { [%eval 4.88] } (16... f5 17. g4 Qc7 18. Rae1 Nf6 19. Bxf6 Rxf6 20. Kh1 Bd7 21. Rf2 Raf8 22. gxf5) 17. fxe5 { [%eval 4.78] } 17... Bc7?! { (4.78 → 7.97) Inaccuracy. Bxe5 was best. } { [%eval 7.97] } (17... Bxe5 18. Qxe5 f5 19. Be7 Rf7 20. Bc5 Qd8 21. Qg3 Bd7 22. Rf2 Rc8 23. Bd6) 18. Bf6 { [%eval 7.4] } 18... Bd8? { (7.40 → Mate in 6) Checkmate is now unavoidable. g6 was best. } { [%eval #6] } (18... g6 19. Qg4 Kh7 20. Be7 f5 21. exf6 Rg8 22. f7 e5 23. fxg8=B+ Kg7 24. Qxg6+) 19. Qg4 { [%eval #5] } 19... Bxf6 { [%eval #5] } 20. exf6 { [%eval #4] } 20... g6 { [%eval #4] } 21. Bxg6 { [%eval #3] } 21... fxg6 { [%eval #2] } 22. Qxg6+ { [%eval #1] } 22... Kh8 { [%eval #1] } 23. Qg7# { White wins. } 1-0
+
+
