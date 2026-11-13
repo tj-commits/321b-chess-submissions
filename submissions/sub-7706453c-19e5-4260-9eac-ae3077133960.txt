@@ -1,0 +1,69 @@
+Credit: Stoofvlees (Chess.com)
+
+[Event "CCC 17 Rapid: Qualification (15|3)"]
+[Site "Chess.com"]
+[Date "2022.02.25"]
+[Round "201"]
+[White "Stoofvlees"]
+[Black "Halogen"]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[Termination "adjudication"]
+[TimeControl "900+3"]
+[Link "https://www.chess.com/blog/SamCopeland/the-most-brilliant-moves-ever-played-in-the-computer-chess-championship"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f4 h6 11. h4 $3 {Refusing to retreat an attacked piece
+on g5 is a classic theme  $1 Capture of the bishop leads to an extremely dangerous
+h-file attack. From here on, White racks up brilliant moves since Black cannot
+take.} 11... Qc7 (11... hxg5 {I won't analyze the acceptance every move. Here is
+a good illustration of the issues.} 12. hxg5 Ng4 13. Be2 e5 $1 14. Qg1 {Get me to
+the h-file on time.} 14... exf4 15. Bxg4 Bxg4 16. Qh2 $3 f5 (16... f6 $4 17. g6
+$18) 17. Qh7+ (17. g6 $2 Bh4 $1 {saves Black's bacon.}) 17... Kf7 18. exf5 Bxg5 19.
+Ne4 f3+ 20. Kb1 fxg2 21. Qg6+ Kg8 22. Nxg5 Bxf5 {Only this saves mate on h7.}
+(22... gxh1=Q 23. Qe6+) 23. Qh5 gxh1=Q 24. Rxh1 Qxg5 25. Qxg5 {After perfect
+defense by Black, White has good chances to win. The game is not over, and
+computer defense by Black probably save the day, but White has a large edge. In
+a human game, I think the defensive challenge is very great.}) 12. Qe3 $3 Bd7 13.
+Bd3 $3 Bc6 14. Kb1 $3 Rac8 15. Qe2 $3 {White threatens g4 so...} 15... h5 {Black
+feels compelled to stop it.} 16. Rh3 {This rook lift LOOKS quite artificial, but
+it's quite strong. Stoofvlees insists sacrificing the rook for Black's best
+defender - the knight that will land on g4.} (16. Bxf6 $2 Bxf6 17. Qxh5 Bxc3 18.
+bxc3 Be8 $1 {This move allows Black to meet e5 with ...f5  $1 and attack the queen.
+Thus Black gains time to defend, and now it is Black's attack on the fractured
+White queen that is most likely to win.}) 16... Ng4 17. Rg3 f6 18. Rxg4 $3 {My
+favorite sacrifice in the game. Stoofvlees doesn't count the material at all.
+The attack is based on eliminating the king's defenders and softening the light
+squares.} 18... hxg4 19. Qxg4 Rf7 $1 (19... fxg5 {Amazingly, this just loses.} 20.
+Qxe6+ Rf7 21. hxg5 {Threatening g6 and attacks on the h-file.} 21... Bd7 22. Qg6
+Rxf4 $2 23. Nd5 $18) 20. f5 {I think this should have been the 19th brilliant move
+:)} 20... exf5 (20... fxg5 21. hxg5 exf5 22. exf5 $16) 21. exf5 d5 22. Bd2 Bd6 23.
+h5 {The calm advance of this pawn is very hard to meet.} 23... Be5 24. Rh1 Qb6
+25. h6 Bd7 26. Qh5 $3 {This sacrifices the piece on c3, but it creates a material
+winning threat of h7+ and sometimes a mating threat of capturing on g7.} 26...
+Rxc3 $1 (26... Bxc3 $2 27. Bxc3 Rxc3 28. h7+ $18) 27. Be3 $3 {A subtle move that gains
+a tempo in the attack.} (27. h7+ Kh8 28. Qxf7 Rc8 $16) 27... Qb4 (27... Qxe3 28.
+h7+ Kh8 29. Qxf7 Rc8 30. Qxd7 $16 {And the decoy of the black queen to e3 means
+White now has threats on c8, b7, and d5.}) 28. h7+ Kh8 $1 {The new battle lines
+are drawn. White has won a pawn, but Black has turned that pawn into a shield
+for his own king. White is better, but the game is closer to a draw than a win.}
+29. Qxf7 Rc8 $1 30. Bc1 $1 Bc6 31. a3 Qc5 32. Rh4 Rf8 33. Qg6 Be8 34. Qg4 Bb5 35.
+Qe2 Bxd3 36. Qxd3 b6 37. Rh3 Qg1 38. Qd2 Qf1 39. Rf3 Qc4 40. Rd3 d4 41. Qe2 Qc6
+42. Rd1 Re8 43. Re1 Re7 44. Rg1 Re8 45. Qd3 Bh2 46. Rd1 $1 Qxg2 47. Qxd4 Qc6 48.
+Qg4 Rc8 49. Rd2 Be5 50. Rg2 Rc7 51. Qg6 Re7 52. Bh6 $3 {White is \"stat padding\"
+by offering sacrifices on h6. The moves are legitimate and keep pressure on
+Black, but as long as Black is careful and doesn't capture, White lacks enough
+pieces to overwhelm the defenders.} 52... Qd7 (52... gxh6 $4 53. Qg8#) 53. Rg1 $3
+Qb7 54. Qh5 $3 Qb8 (54... gxh6 $4 55. Rg8+ Kxh7 56. Qg6#) 55. Qf3 $3 Rd7 56. Qc6
+Qd8 57. Ka2 $3 Rc7 58. Qg2 Qf8 $1 59. c3 Re7 60. Ka1 b5 61. Qd5 $3 Bc7 62. Qb3 $3 Qe8
+63. Ka2 $3 a5 64. Bc1 a4 65. Qd5 Re5 66. Qb7 Re7 67. Rd1 Bg3 68. Qa6 Kxh7 69.
+Rh1+ Kg8 70. Rg1 Bf2 71. Rg4 Re1 72. Bd2 Rd1 73. Qxf6 $3 {This last brilliant
+move by White looks like it might finally win. White grabs a pawn and threatens
+mate, but Black is ready to play their first brilliant move in the game in just
+two moves  $1} 73... Qd7 74. Bh6 Qd5+ 75. c4 Qxc4+ $3 {Black distracts the rook,
+winning White's queen and pushing the game to a drawn endgame.} 76. Rxc4 gxf6
+77. Rc2 Bd4 78. Rc7 Be5 79. Rc5 Kh7 80. Be3 Rd3 81. Bc1 Rb3 82. Kb1 Kg7 83. Rd5
+b4 84. Rb5 Bd6 85. axb4 Rxb4 86. Rxb4 Bxb4 87. Kc2 Kf7 88. Kd3 Bd6 89. Kc4 Be5
+90. Kb4 Ke7 91. Kxa4 Kd6 92. b4 Bh2 93. Bb2 Kd5 $1 94. Bxf6 {Engines are
+all-knowing, and while a human might still lose the same-colored bishop endgame
+after ...Ke4-Kxf5, the computers will always hold the drawn endgame.} 1/2-1/2
