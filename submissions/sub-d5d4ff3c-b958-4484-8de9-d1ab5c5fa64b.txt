@@ -1,0 +1,16 @@
+Credit: KnightFXs (Chess.com)
+
+[Event "KnightFXs vs. pkarma2308"]
+[Site "Chess.com"]
+[Date "2026-11-10"]
+[White "KnightFXs"]
+[Black "pkarma2308"]
+[Result "1-0"]
+[WhiteElo "768"]
+[BlackElo "772"]
+[TimeControl "600"]
+[Termination "KnightFXs won by resignation"]
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 h6 6. Nxf7 Kxf7 7. Bg6+ Kxg6
+8. Qxd8 Nc6 9. Qd3+ Kf7 10. Qb3+ Ke8 11. O-O Nd4 12. Qc4 e5 13. Re1 Bd6 14. Nc3
+Nxc2 15. Rd1 Nxa1 16. Nd5 Nxd5 17. Qxd5 Bd7 18. Qxb7 Rc8 19. Qxa7 Nc2 20. f4
+exf4 21. Qf2 Rf8 22. Qxc2 f3 23. gxf3 Rxf3 24. Qe4+ Kd8 25. Qxf3 g6 26. Bxh6 1-0
