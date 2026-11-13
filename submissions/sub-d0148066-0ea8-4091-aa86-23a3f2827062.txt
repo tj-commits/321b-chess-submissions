@@ -1,0 +1,18 @@
+Credit: KnightFXs (Chess.com)
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2026-11-04"]
+[White "RookFXs"]
+[Black "KnightFXs"]
+[Result "1-0"]
+[WhiteElo "681"]
+[BlackElo "561"]
+[TimeControl "1/259200"]
+[EndDate "2026-11-10"]
+[Termination "RookFXs won by checkmate"]
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Ng8 5. Nf3 d6 6. d4 f6 7. Bc4 c6 8. exf6
+Qxf6 9. O-O d5 10. Re1+ Be6 11. Rxe6+ Qxe6 12. Bd3 Be7 13. Ne5 Nd7 14. Qh5+ g6
+15. Nxg6 Qf7 16. Bxf4 Ngf6 17. Qh6 Rg8 18. Nxe7 Kxe7 19. Re1+ Kd8 20. Bg5 c5 21.
+Bxh7 Rxg5 22. Qxg5 Qxh7 23. Nxd5 Kc8 24. Nxf6 Nxf6 25. Qxf6 Kc7 26. Re7+ Kc8 27.
+Qf8# 1-0
